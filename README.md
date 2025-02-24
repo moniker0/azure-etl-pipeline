@@ -2,6 +2,8 @@
 
 ## Building an ETL Pipeline from Azure SQL to Azure Data Lake using Azure Data Factory
 
+Check out the "ETL pipeline.docx" file for detailed step-by-step pipeline implementation.
+
 ### 1️⃣ Overview:
 
 - Objective: Automate data extraction from Azure SQL DB into Azure Data Lake Storage.
