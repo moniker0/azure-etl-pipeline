@@ -1,8 +1,8 @@
 # azure-etl-pipeline
 
-## Building an ETL Pipeline from Azure SQL to Azure Data Lake using Azure Data Factory
+### Building an ETL Pipeline from Azure SQL to Azure Data Lake using Azure Data Factory
 
-Check out the "ETL pipeline.docx" file for detailed step-by-step pipeline implementation.
+### 🌟 Check out the "ETL pipeline.docx" file for detailed step-by-step pipeline implementation.
 
 ### 1️⃣ Overview:
 
