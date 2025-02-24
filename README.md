@@ -6,7 +6,7 @@
 
 ### 1️⃣ Overview:
 
-- Objective: Automate data extraction from Azure SQL DB into Azure Data Lake Storage.
+- Objective: Automate Sales data extraction from Azure SQL DB into Azure Data Lake Storage.
 - Tools Used: Azure SQL, ADF, ADLS, Parquet/CSV.
 
 
