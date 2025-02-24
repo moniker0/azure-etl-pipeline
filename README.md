@@ -8,8 +8,7 @@ Building an ETL Pipeline from Azure SQL to Azure Data Lake using Azure Data Fact
 - Tools Used: Azure SQL, ADF, ADLS, Parquet/CSV.
 
 2️⃣ Architecture Diagram:
-
-    <img width="270" alt="pipeline_architecture" src="https://github.com/user-attachments/assets/43367168-3206-406c-8720-4c751349a3e4" />
+<img width="270" alt="pipeline_architecture" src="https://github.com/user-attachments/assets/43367168-3206-406c-8720-4c751349a3e4" />
 
 
 3️⃣ Implementation Steps:
